@@ -1,5 +1,7 @@
 # People Registry
 
+**Patcharaphon Santhitikul (Bentor)** — Tests Assignment
+
 A web application for managing a registry of people — create, view, edit, and soft-delete person records with full form validation.
 
 ---
